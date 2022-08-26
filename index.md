@@ -6,8 +6,15 @@ Estudiante y trabajadora de microsystem
 - Entrega conocimientos básicos de programación
 - Trabajar en equipo
 
+
 ## Modalidad
 - Presencial
 - online
+
+## Condición
+- Asistencia
+- Puntualidad
+- Respetar a su entorno
+
 
 
